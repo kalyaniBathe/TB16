@@ -5,6 +5,7 @@ public class SimpleProgram {
 		
 		System.out.println("Hello");
 		System.out.println("world");
+		System.out.println("CJC")
 	}
 
 }
