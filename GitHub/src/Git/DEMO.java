@@ -1,9 +1,10 @@
+package Git;
 
-public class PROJECT {
+public class DEMO {
+
 	public static void main(String[] args) {
-		
-		System.out.println("World");
 		System.out.println("Hello");
+
 	}
 
 }
